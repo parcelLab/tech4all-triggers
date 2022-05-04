@@ -1,0 +1,18 @@
+{
+  "name": "tech4all-triggers",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tech 4 All Trigger Repo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "sift": "^16.0.0"
+  }
+}
